@@ -59,9 +59,8 @@ struct EntryViewChart: View {
             }
         }
         .chartForegroundStyleScale([
-            BoulderGrade.purple.gradeDescription: BoulderGrade.purple.color,
             BoulderGrade.yellow.gradeDescription: BoulderGrade.yellow.color,
-            BoulderGrade.white.gradeDescription: BoulderGrade.white.color,
+            BoulderGrade.green.gradeDescription: BoulderGrade.green.color,
             BoulderGrade.black.gradeDescription: BoulderGrade.black.color,
             BoulderGrade.orange.gradeDescription: BoulderGrade.orange.color,
             BoulderGrade.red.gradeDescription: BoulderGrade.red.color,

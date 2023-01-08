@@ -30,7 +30,6 @@ struct EntryColorView: View {
                 )
                 Text("\(numberOfTops)")
                     .font(.caption2.weight(.light))
-                    .foregroundColor(grade == BoulderGrade.white ? Color.black : Color.white)
             }
         }
     }

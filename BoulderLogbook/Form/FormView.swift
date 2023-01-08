@@ -26,8 +26,8 @@ struct FormView: View {
                     ForEach(BoulderGrade.allCases, id: \.self) { grade in
                         Stepper {
                             HStack {
-                                Image(systemName: grade == .white ? "circle" : "circle.fill")
-                                    .foregroundColor(grade == .white ? .none : grade.color)
+                                Image(systemName:"circle.fill")
+                                    .foregroundColor(grade.color)
                                 Text("× \(viewStore.entry.numberOfGrades(for: grade))")
                             }
                         } onIncrement: {

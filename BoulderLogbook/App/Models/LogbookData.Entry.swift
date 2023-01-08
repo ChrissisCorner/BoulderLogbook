@@ -45,15 +45,15 @@ extension LogbookData.Entry {
         ),
         LogbookData.Entry(
             date: Date(timeIntervalSince1970: 1659823201),
-            tops: [.yellow, .white, .black, .red, .red, .orange, .red, .blue]
+            tops: [.yellow, .black, .red, .red, .orange, .red, .blue]
         ),
         LogbookData.Entry(
             date: Date(timeIntervalSince1970: 1656799201),
-            tops: [.purple, .purple, .white, .black, .black, .black, .black, .orange, .red, .red, .blue]
+            tops: [.black, .black, .black, .black, .orange, .red, .red, .blue]
         ),
         LogbookData.Entry(
             date: Date(timeIntervalSince1970: 1656972001),
-            tops: [.white, .black, .black, .black, .black, .black, .black, .orange, .orange, .orange]
+            tops: [.black, .black, .black, .black, .black, .black, .orange, .orange, .orange]
         )
     ]
 }
