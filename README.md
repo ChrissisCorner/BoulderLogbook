@@ -1,6 +1,6 @@
 # BoulderLogbook
 
-An unofficial boulder logbook for Dresden's boulder gym [Mandala](https://boulderhalle-dresden.de).
+An unofficial boulder logbook for Dresden's boulder gym [Kletterarena](https://www.kletterarena-dresden.de/).
 
 ![Screenshots](Resources/Screenshots.jpg)
 
